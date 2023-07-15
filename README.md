@@ -1,5 +1,5 @@
 # 💫 About Me:
-💼 Currently working at ABN AMRO.<br>💬 I am a mobile developer with a passion for usability and user experience. 
+💼 Currently working at [ABN AMRO](https://github.com/abnamro).<br>💬 I am a mobile developer with a passion for usability and user experience. 
 
 
 ## 🌐 Socials:
